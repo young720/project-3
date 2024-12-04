@@ -1,0 +1,24 @@
+#container {
+    background-color: blueviolet;
+    background-size: 4em 4em;
+}
+
+#boombox {
+    text-align: center;
+    margin: 0px auto;
+}
+
+
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/021/672/511/non_2x/abstract-colorful-70s-background-vintage-retro-colors-from-the-1970s-1900s-80s-90s-retro-style-wallpaper-with-lines-rainbow-stripes-suitable-for-poster-banner-decorative-wall-art-free-vector.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header {
+    font-size: 30px;
+    font-family: "Cooper Black", fantasy;
+    color: aliceblue;
+    text-align: center;
+}
